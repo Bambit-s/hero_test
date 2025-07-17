@@ -2,7 +2,7 @@
 
 #### Clone project
 ```
-git clone https://github.com/Bambit-s/hero_test.git
+git clone https://github.com/Bambit-s/hero_test/tree/my_test
 cd hero_test
 ```
 
